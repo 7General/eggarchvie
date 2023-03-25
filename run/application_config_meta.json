@@ -1,0 +1,321 @@
+{
+  "keys": "/Users/zzg/Desktop/egg-archive/config/config.default.js",
+  "middleware": "/Users/zzg/Desktop/egg-archive/config/config.default.js",
+  "security": {
+    "csrf": {
+      "enable": "/Users/zzg/Desktop/egg-archive/config/config.default.js",
+      "type": "/Users/zzg/Desktop/egg-archive/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/zzg/Desktop/egg-archive/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/zzg/Desktop/egg-archive/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/zzg/Desktop/egg-archive/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/zzg/Desktop/egg-archive/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/zzg/Desktop/egg-archive/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/zzg/Desktop/egg-archive/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/zzg/Desktop/egg-archive/node_modules/egg-security/config/config.default.js",
+      "supportedRequests": "/Users/zzg/Desktop/egg-archive/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/zzg/Desktop/egg-archive/node_modules/egg-security/config/config.default.js"
+    },
+    "domainWhiteList": "/Users/zzg/Desktop/egg-archive/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/zzg/Desktop/egg-archive/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/zzg/Desktop/egg-archive/node_modules/egg-security/config/config.default.js",
+    "xframe": {
+      "enable": "/Users/zzg/Desktop/egg-archive/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/zzg/Desktop/egg-archive/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/zzg/Desktop/egg-archive/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/zzg/Desktop/egg-archive/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/zzg/Desktop/egg-archive/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/zzg/Desktop/egg-archive/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/zzg/Desktop/egg-archive/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/zzg/Desktop/egg-archive/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/zzg/Desktop/egg-archive/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/zzg/Desktop/egg-archive/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/zzg/Desktop/egg-archive/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/zzg/Desktop/egg-archive/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/zzg/Desktop/egg-archive/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/zzg/Desktop/egg-archive/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/zzg/Desktop/egg-archive/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/zzg/Desktop/egg-archive/node_modules/egg-security/config/config.default.js",
+      "ipExceptionList": "/Users/zzg/Desktop/egg-archive/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/zzg/Desktop/egg-archive/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "view": {
+    "defaultViewEngine": "/Users/zzg/Desktop/egg-archive/config/config.default.js",
+    "mapping": {
+      ".tpl": "/Users/zzg/Desktop/egg-archive/config/config.default.js"
+    },
+    "root": "/Users/zzg/Desktop/egg-archive/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/zzg/Desktop/egg-archive/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/zzg/Desktop/egg-archive/node_modules/egg-view/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/zzg/Desktop/egg-archive/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/zzg/Desktop/egg-archive/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/zzg/Desktop/egg-archive/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/zzg/Desktop/egg-archive/node_modules/egg-session/config/config.default.js",
+    "logValue": "/Users/zzg/Desktop/egg-archive/node_modules/egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/Users/zzg/Desktop/egg-archive/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/zzg/Desktop/egg-archive/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/zzg/Desktop/egg-archive/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/zzg/Desktop/egg-archive/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/zzg/Desktop/egg-archive/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/zzg/Desktop/egg-archive/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/zzg/Desktop/egg-archive/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/zzg/Desktop/egg-archive/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/zzg/Desktop/egg-archive/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/zzg/Desktop/egg-archive/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/zzg/Desktop/egg-archive/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/zzg/Desktop/egg-archive/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/zzg/Desktop/egg-archive/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/zzg/Desktop/egg-archive/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/zzg/Desktop/egg-archive/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/zzg/Desktop/egg-archive/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/zzg/Desktop/egg-archive/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/zzg/Desktop/egg-archive/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/zzg/Desktop/egg-archive/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/config/config.default.js",
+    "defaultParamCharset": "/Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/config/config.default.js",
+    "allowArrayField": "/Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/config/config.default.js",
+      "disable": "/Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/zzg/Desktop/egg-archive/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/zzg/Desktop/egg-archive/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/zzg/Desktop/egg-archive/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/zzg/Desktop/egg-archive/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/zzg/Desktop/egg-archive/node_modules/egg-development/config/config.default.js",
+    "overrideIgnore": "/Users/zzg/Desktop/egg-archive/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/zzg/Desktop/egg-archive/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/zzg/Desktop/egg-archive/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/zzg/Desktop/egg-archive/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/zzg/Desktop/egg-archive/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/zzg/Desktop/egg-archive/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/zzg/Desktop/egg-archive/node_modules/egg-static/config/config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "/Users/zzg/Desktop/egg-archive/node_modules/egg-view-nunjucks/config/config.default.js",
+    "throwOnUndefined": "/Users/zzg/Desktop/egg-archive/node_modules/egg-view-nunjucks/config/config.default.js",
+    "trimBlocks": "/Users/zzg/Desktop/egg-archive/node_modules/egg-view-nunjucks/config/config.default.js",
+    "lstripBlocks": "/Users/zzg/Desktop/egg-archive/node_modules/egg-view-nunjucks/config/config.default.js",
+    "cache": "/Users/zzg/Desktop/egg-archive/node_modules/egg-view-nunjucks/config/config.local.js"
+  },
+  "env": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+  "name": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+    "version": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+    "description": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+    "private": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+    "egg": {
+      "declarations": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "axios": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+      "chatgpt": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+      "egg": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+      "egg-view-nunjucks": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+      "openai": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+      "openai-api": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+      "stop": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+      "dev": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+      "debug": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+      "test": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+      "cov": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+      "lint": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+      "ci": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+      "autod": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+      "url": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+    "license": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+    "timing": {
+      "slowBootActionMinDuration": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js"
+    }
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+    "cacheControl": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+    "strict": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+      "depth": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+    "env": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+    "level": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+    "enablePerformanceTimer": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+    "enableFastContextLogger": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js"
+    },
+    "useHttpClientNext": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js"
+  },
+  "meta": {
+    "enable": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+    "logging": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+      "port": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/zzg/Desktop/egg-archive/node_modules/egg/config/config.default.js"
+}

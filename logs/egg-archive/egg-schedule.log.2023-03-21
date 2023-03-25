@@ -1,0 +1,378 @@
+2023-02-21 04:30:02,413 INFO 17617 [Job#16769250023881930531113035381] /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js executing by app
+2023-02-21 04:30:02,451 INFO 17617 [Job#16769250023881930531113035381] /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js execute succeed, used 34ms. 
+2023-02-21 04:30:02,416 INFO 16545 [Timer] /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 86397600ms at 2023-02-22 04:30:00.015
+2023-03-21 14:54:56,892 INFO 82275 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 14:54:56,892 INFO 82275 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 14:54:56,892 INFO 82275 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 14:54:57,086 INFO 82273 [Timer] /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 48902917ms at 2023-03-22 04:30:00.003
+2023-03-21 14:54:57,086 INFO 82273 [Timer] /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 32702914ms at 2023-03-22 00:00:00.000
+2023-03-21 14:54:57,086 INFO 82273 [Timer] /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 32703914ms at 2023-03-22 00:00:01.000
+2023-03-21 15:00:06,625 INFO 82365 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 15:00:06,625 INFO 82365 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 15:00:06,626 INFO 82365 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 15:00:24,612 INFO 82387 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 15:00:24,612 INFO 82387 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 15:00:24,612 INFO 82387 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 15:04:35,645 INFO 82871 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 15:04:35,645 INFO 82871 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 15:04:35,645 INFO 82871 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 15:04:35,798 INFO 82870 [Timer] /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 48324204ms at 2023-03-22 04:30:00.002
+2023-03-21 15:04:35,799 INFO 82870 [Timer] /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 32124202ms at 2023-03-22 00:00:00.001
+2023-03-21 15:04:35,799 INFO 82870 [Timer] /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 32125201ms at 2023-03-22 00:00:01.000
+2023-03-21 15:18:17,738 INFO 83365 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 15:18:17,739 INFO 83365 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 15:18:17,739 INFO 83365 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 15:18:17,911 INFO 83361 [Timer] /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 47502091ms at 2023-03-22 04:30:00.002
+2023-03-21 15:18:17,911 INFO 83361 [Timer] /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 31302089ms at 2023-03-22 00:00:00.000
+2023-03-21 15:18:17,912 INFO 83361 [Timer] /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 31303089ms at 2023-03-22 00:00:01.001
+2023-03-21 15:19:08,408 INFO 83473 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 15:19:08,408 INFO 83473 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 15:19:08,408 INFO 83473 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 15:19:08,561 INFO 83468 [Timer] /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 47451442ms at 2023-03-22 04:30:00.003
+2023-03-21 15:19:08,561 INFO 83468 [Timer] /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 31251439ms at 2023-03-22 00:00:00.000
+2023-03-21 15:19:08,561 INFO 83468 [Timer] /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 31252439ms at 2023-03-22 00:00:01.000
+2023-03-21 15:19:39,813 INFO 83501 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 15:19:39,813 INFO 83501 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 15:19:39,813 INFO 83501 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 15:19:41,542 INFO 83510 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 15:19:41,542 INFO 83510 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 15:19:41,542 INFO 83510 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 15:19:53,843 INFO 83525 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 15:19:53,843 INFO 83525 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 15:19:53,843 INFO 83525 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 15:20:10,561 INFO 83538 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 15:20:10,561 INFO 83538 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 15:20:10,561 INFO 83538 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 15:20:17,887 INFO 83549 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 15:20:17,887 INFO 83549 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 15:20:17,887 INFO 83549 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 15:20:44,848 INFO 83560 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 15:20:44,848 INFO 83560 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 15:20:44,849 INFO 83560 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 15:21:01,158 INFO 83596 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 15:21:01,158 INFO 83596 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 15:21:01,158 INFO 83596 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 15:21:12,701 INFO 83611 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 15:21:12,701 INFO 83611 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 15:21:12,701 INFO 83611 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 15:21:21,329 INFO 83623 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 15:21:21,329 INFO 83623 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 15:21:21,329 INFO 83623 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 15:21:56,523 INFO 83640 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 15:21:56,523 INFO 83640 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 15:21:56,523 INFO 83640 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 15:22:05,866 INFO 83652 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 15:22:05,866 INFO 83652 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 15:22:05,866 INFO 83652 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 15:22:41,323 INFO 83678 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 15:22:41,323 INFO 83678 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 15:22:41,323 INFO 83678 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 15:22:49,043 INFO 83691 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 15:22:49,043 INFO 83691 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 15:22:49,044 INFO 83691 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 15:23:10,323 INFO 83699 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 15:23:10,323 INFO 83699 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 15:23:10,323 INFO 83699 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 15:24:05,450 INFO 83747 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 15:24:05,450 INFO 83747 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 15:24:05,450 INFO 83747 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 15:39:23,287 INFO 84205 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 15:39:23,287 INFO 84205 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 15:39:23,288 INFO 84205 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 15:40:01,466 INFO 84255 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 15:40:01,466 INFO 84255 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 15:40:01,466 INFO 84255 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 15:40:57,531 INFO 84306 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 15:40:57,531 INFO 84306 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 15:40:57,531 INFO 84306 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 15:42:03,700 INFO 84354 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 15:42:03,700 INFO 84354 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 15:42:03,701 INFO 84354 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 15:48:02,511 INFO 84516 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 15:48:02,511 INFO 84516 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 15:48:02,512 INFO 84516 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 15:49:52,309 INFO 84568 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 15:49:52,309 INFO 84568 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 15:49:52,309 INFO 84568 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 15:49:54,819 INFO 84576 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 15:49:54,819 INFO 84576 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 15:49:54,819 INFO 84576 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 15:56:38,048 INFO 84679 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 15:56:38,048 INFO 84679 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 15:56:38,048 INFO 84679 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 15:57:15,199 INFO 84694 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 15:57:15,199 INFO 84694 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 15:57:15,199 INFO 84694 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 16:08:26,323 INFO 85105 [Timer] /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 44493680ms at 2023-03-22 04:30:00.003
+2023-03-21 16:08:26,323 INFO 85105 [Timer] /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 28293677ms at 2023-03-22 00:00:00.000
+2023-03-21 16:08:26,323 INFO 85105 [Timer] /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 28294677ms at 2023-03-22 00:00:01.000
+2023-03-21 16:08:26,085 INFO 85113 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 16:08:26,085 INFO 85113 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 16:08:26,085 INFO 85113 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 16:10:18,009 INFO 85149 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 16:10:18,009 INFO 85149 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 16:10:18,010 INFO 85149 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 16:10:38,461 INFO 85173 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 16:10:38,461 INFO 85173 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 16:10:38,461 INFO 85173 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 16:10:40,456 INFO 85179 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 16:10:40,456 INFO 85179 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 16:10:40,456 INFO 85179 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 16:10:49,154 INFO 85186 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 16:10:49,154 INFO 85186 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 16:10:49,155 INFO 85186 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 16:10:50,225 INFO 85192 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 16:10:50,225 INFO 85192 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 16:10:50,225 INFO 85192 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 16:11:47,783 INFO 85213 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 16:11:47,783 INFO 85213 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 16:11:47,784 INFO 85213 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 16:12:07,862 INFO 85238 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 16:12:07,862 INFO 85238 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 16:12:07,862 INFO 85238 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 16:12:19,117 INFO 85260 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 16:12:19,117 INFO 85260 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 16:12:19,123 INFO 85260 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 16:12:26,639 INFO 85274 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 16:12:26,639 INFO 85274 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 16:12:26,640 INFO 85274 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 16:13:59,009 INFO 85388 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 16:13:59,009 INFO 85388 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 16:13:59,009 INFO 85388 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 16:13:59,225 INFO 85387 [Timer] /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 44160777ms at 2023-03-22 04:30:00.002
+2023-03-21 16:13:59,226 INFO 85387 [Timer] /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 27960774ms at 2023-03-22 00:00:00.000
+2023-03-21 16:13:59,226 INFO 85387 [Timer] /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 27961774ms at 2023-03-22 00:00:01.000
+2023-03-21 16:14:36,976 INFO 85413 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 16:14:36,976 INFO 85413 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 16:14:36,976 INFO 85413 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 16:14:39,850 INFO 85422 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 16:14:39,850 INFO 85422 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 16:14:39,850 INFO 85422 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 16:15:24,801 INFO 85436 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 16:15:24,801 INFO 85436 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 16:15:24,801 INFO 85436 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 16:15:40,086 INFO 85452 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 16:15:40,086 INFO 85452 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 16:15:40,086 INFO 85452 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 16:16:11,427 INFO 85466 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 16:16:11,427 INFO 85466 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 16:16:11,427 INFO 85466 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 16:16:17,662 INFO 85478 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 16:16:17,662 INFO 85478 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 16:16:17,662 INFO 85478 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 16:25:48,246 INFO 85597 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 16:25:48,246 INFO 85597 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 16:25:48,248 INFO 85597 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 16:26:00,166 INFO 85616 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 16:26:00,166 INFO 85616 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 16:26:00,166 INFO 85616 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 16:26:34,076 INFO 85643 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 16:26:34,076 INFO 85643 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 16:26:34,076 INFO 85643 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 16:32:17,459 INFO 85846 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 16:32:17,459 INFO 85846 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 16:32:17,459 INFO 85846 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 16:32:55,901 INFO 85866 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 16:32:55,901 INFO 85866 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 16:32:55,901 INFO 85866 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 16:33:01,813 INFO 85875 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 16:33:01,813 INFO 85875 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 16:33:01,814 INFO 85875 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 16:33:22,484 INFO 85893 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 16:33:22,484 INFO 85893 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 16:33:22,484 INFO 85893 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 16:38:36,682 INFO 86465 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 16:38:36,682 INFO 86465 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 16:38:36,682 INFO 86465 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 16:38:36,851 INFO 86464 [Timer] /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 42683151ms at 2023-03-22 04:30:00.002
+2023-03-21 16:38:36,852 INFO 86464 [Timer] /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 26483148ms at 2023-03-22 00:00:00.000
+2023-03-21 16:38:36,852 INFO 86464 [Timer] /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 26484148ms at 2023-03-22 00:00:01.000
+2023-03-21 16:54:10,313 INFO 86930 [Timer] /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 41749689ms at 2023-03-22 04:30:00.002
+2023-03-21 16:54:10,314 INFO 86930 [Timer] /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 25549686ms at 2023-03-22 00:00:00.000
+2023-03-21 16:54:10,314 INFO 86930 [Timer] /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 25550686ms at 2023-03-22 00:00:01.000
+2023-03-21 16:54:10,138 INFO 86938 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 16:54:10,138 INFO 86938 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 16:54:10,138 INFO 86938 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 17:03:02,557 INFO 87494 [Timer] /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 41217446ms at 2023-03-22 04:30:00.003
+2023-03-21 17:03:02,557 INFO 87494 [Timer] /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 25017443ms at 2023-03-22 00:00:00.000
+2023-03-21 17:03:02,557 INFO 87494 [Timer] /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 25018443ms at 2023-03-22 00:00:01.000
+2023-03-21 17:03:02,405 INFO 87496 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 17:03:02,405 INFO 87496 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 17:03:02,405 INFO 87496 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 17:56:49,750 INFO 88334 [Timer] /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 37990252ms at 2023-03-22 04:30:00.002
+2023-03-21 17:56:49,751 INFO 88334 [Timer] /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 21790249ms at 2023-03-22 00:00:00.000
+2023-03-21 17:56:49,751 INFO 88334 [Timer] /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 21791249ms at 2023-03-22 00:00:01.000
+2023-03-21 17:56:49,614 INFO 88342 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 17:56:49,614 INFO 88342 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 17:56:49,614 INFO 88342 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 17:57:29,680 INFO 88388 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 17:57:29,680 INFO 88388 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 17:57:29,680 INFO 88388 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 17:57:32,080 INFO 88396 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 17:57:32,080 INFO 88396 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 17:57:32,080 INFO 88396 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 17:57:34,320 INFO 88397 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 17:57:34,320 INFO 88397 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 17:57:34,320 INFO 88397 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 17:57:39,605 INFO 88404 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 17:57:39,605 INFO 88404 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 17:57:39,605 INFO 88404 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 17:57:41,156 INFO 88410 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 17:57:41,156 INFO 88410 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 17:57:41,156 INFO 88410 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 17:57:59,315 INFO 88426 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 17:57:59,315 INFO 88426 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 17:57:59,315 INFO 88426 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 17:58:00,895 INFO 88430 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 17:58:00,895 INFO 88430 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 17:58:00,895 INFO 88430 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 17:58:04,174 INFO 88433 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 17:58:04,174 INFO 88433 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 17:58:04,175 INFO 88433 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:01:26,461 INFO 88524 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:01:26,461 INFO 88524 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:01:26,461 INFO 88524 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:01:34,810 INFO 88541 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:01:34,810 INFO 88541 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:01:34,810 INFO 88541 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:01:38,374 INFO 88548 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:01:38,374 INFO 88548 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:01:38,374 INFO 88548 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:01:47,121 INFO 88557 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:01:47,121 INFO 88557 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:01:47,121 INFO 88557 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:05:34,962 INFO 88607 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:05:34,962 INFO 88607 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:05:34,962 INFO 88607 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:05:43,135 INFO 88621 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:05:43,135 INFO 88621 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:05:43,135 INFO 88621 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:06:02,045 INFO 88641 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:06:02,045 INFO 88641 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:06:02,045 INFO 88641 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:06:05,239 INFO 88647 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:06:05,239 INFO 88647 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:06:05,239 INFO 88647 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:06:40,410 INFO 88662 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:06:40,410 INFO 88662 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:06:40,410 INFO 88662 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:06:54,102 INFO 88680 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:06:54,102 INFO 88680 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:06:54,102 INFO 88680 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:07:08,806 INFO 88690 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:07:08,806 INFO 88690 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:07:08,806 INFO 88690 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:07:47,962 INFO 88706 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:07:47,962 INFO 88706 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:07:47,962 INFO 88706 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:07:49,294 INFO 88712 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:07:49,294 INFO 88712 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:07:49,294 INFO 88712 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:07:51,444 INFO 88716 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:07:51,444 INFO 88716 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:07:51,444 INFO 88716 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:10:00,351 INFO 88756 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:10:00,351 INFO 88756 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:10:00,351 INFO 88756 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:10:02,691 INFO 88764 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:10:02,691 INFO 88764 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:10:02,691 INFO 88764 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:24:07,719 INFO 89119 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:24:07,720 INFO 89119 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:24:07,720 INFO 89119 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:24:09,479 INFO 89128 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:24:09,479 INFO 89128 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:24:09,479 INFO 89128 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:25:28,135 INFO 89255 [Timer] /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 36271868ms at 2023-03-22 04:30:00.003
+2023-03-21 18:25:28,135 INFO 89255 [Timer] /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 20071865ms at 2023-03-22 00:00:00.000
+2023-03-21 18:25:28,135 INFO 89255 [Timer] /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 20072865ms at 2023-03-22 00:00:01.000
+2023-03-21 18:25:27,944 INFO 89261 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:25:27,944 INFO 89261 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:25:27,944 INFO 89261 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:33:46,973 INFO 89376 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:33:46,973 INFO 89376 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:33:46,973 INFO 89376 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:33:59,306 INFO 89403 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:33:59,306 INFO 89403 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:33:59,306 INFO 89403 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:34:17,964 INFO 89414 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:34:17,964 INFO 89414 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:34:17,964 INFO 89414 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:39:03,236 INFO 89468 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:39:03,236 INFO 89468 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:39:03,236 INFO 89468 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:39:04,709 INFO 89476 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:39:04,709 INFO 89476 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:39:04,709 INFO 89476 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:39:06,326 INFO 89480 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:39:06,326 INFO 89480 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:39:06,326 INFO 89480 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:39:44,447 INFO 89499 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:39:44,448 INFO 89499 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:39:44,448 INFO 89499 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:39:50,766 INFO 89512 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:39:50,766 INFO 89512 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:39:50,766 INFO 89512 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:39:52,778 INFO 89513 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:39:52,779 INFO 89513 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:39:52,779 INFO 89513 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:41:02,037 INFO 89539 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:41:02,037 INFO 89539 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:41:02,037 INFO 89539 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:41:27,869 INFO 89561 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:41:27,869 INFO 89561 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:41:27,869 INFO 89561 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:41:30,064 INFO 89568 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:41:30,064 INFO 89568 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:41:30,064 INFO 89568 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:41:32,021 INFO 89569 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:41:32,021 INFO 89569 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:41:32,021 INFO 89569 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:41:33,953 INFO 89575 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:41:33,953 INFO 89575 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:41:33,953 INFO 89575 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:41:43,271 INFO 89583 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:41:43,272 INFO 89583 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:41:43,272 INFO 89583 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:42:13,062 INFO 89600 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:42:13,062 INFO 89600 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:42:13,062 INFO 89600 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:43:52,827 INFO 89629 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:43:52,827 INFO 89629 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:43:52,827 INFO 89629 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:47:28,506 INFO 89691 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:47:28,506 INFO 89691 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:47:28,506 INFO 89691 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:47:44,088 INFO 89709 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:47:44,089 INFO 89709 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:47:44,089 INFO 89709 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:51:26,384 INFO 89834 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:51:26,385 INFO 89834 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:51:26,385 INFO 89834 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:51:38,295 INFO 89851 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:51:38,295 INFO 89851 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:51:38,295 INFO 89851 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:51:53,591 INFO 89864 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:51:53,591 INFO 89864 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:51:53,591 INFO 89864 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:52:33,102 INFO 89880 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:52:33,102 INFO 89880 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:52:33,102 INFO 89880 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:52:55,512 INFO 89898 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:52:55,512 INFO 89898 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:52:55,512 INFO 89898 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:52:57,748 INFO 89904 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:52:57,748 INFO 89904 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:52:57,748 INFO 89904 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:53:04,947 INFO 89911 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:53:04,947 INFO 89911 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:53:04,947 INFO 89911 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-21 18:53:14,422 INFO 89923 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-03-21 18:53:14,422 INFO 89923 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-03-21 18:53:14,422 INFO 89923 [egg-schedule]: register schedule /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-03-22 01:02:48,032 INFO 89923 [Job#16794181680103974972035571131] /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js executing by app
+2023-03-22 01:02:48,186 INFO 89923 [Job#16794181681733974973666421161] /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2023-03-22 01:02:48,210 INFO 89923 [-/127.0.0.1/-/177ms SCHEDULE /__schedule?path=/Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js&type=worker&cron=0%200%20*%20*%20*] [Job#16794181680103974972035571131] /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js execute succeed, used 177ms. 
+2023-03-22 01:02:48,213 INFO 89923 [-/127.0.0.1/-/26ms SCHEDULE /__schedule?path=/Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js&type=worker&cron=1%200%200%20*%20*%20*] [Job#16794181681733974973666421161] /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 26ms. 
+2023-03-22 01:02:48,173 INFO 89255 [Timer] /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 82631990ms at 2023-03-23 00:00:00.161
+2023-03-22 01:02:48,174 INFO 89255 [Timer] /Users/zzg/Desktop/egg-archive/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 82632827ms at 2023-03-23 00:00:01.001

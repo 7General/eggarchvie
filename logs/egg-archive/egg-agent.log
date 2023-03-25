@@ -1,0 +1,147 @@
+2023-03-22 01:02:48,218 INFO 89255 [egg-logrotator] agent logger reload: got log-reload message
+2023-03-22 01:46:08,021 ERROR 89255 nodejs.ClusterClientNoResponseError: client no response in 2437837ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/zzg/Desktop/egg-archive/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 89255
+hostname: zzgdeMacBook-Pro-2.local
+
+2023-03-22 02:36:59,026 ERROR 89255 nodejs.ClusterClientNoResponseError: client no response in 2911239ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/zzg/Desktop/egg-archive/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 89255
+hostname: zzgdeMacBook-Pro-2.local
+
+2023-03-22 04:25:06,022 ERROR 89255 nodejs.ClusterClientNoResponseError: client no response in 6447918ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/zzg/Desktop/egg-archive/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 89255
+hostname: zzgdeMacBook-Pro-2.local
+
+2023-03-22 04:31:16,021 ERROR 89255 nodejs.ClusterClientNoResponseError: client no response in 329925ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/zzg/Desktop/egg-archive/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 89255
+hostname: zzgdeMacBook-Pro-2.local
+
+2023-03-22 06:19:29,022 ERROR 89255 nodejs.ClusterClientNoResponseError: client no response in 6452820ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/zzg/Desktop/egg-archive/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 89255
+hostname: zzgdeMacBook-Pro-2.local
+
+2023-03-22 08:07:50,020 ERROR 89255 nodejs.ClusterClientNoResponseError: client no response in 6460843ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/zzg/Desktop/egg-archive/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 89255
+hostname: zzgdeMacBook-Pro-2.local
+
+2023-03-22 09:32:33,018 ERROR 89255 nodejs.ClusterClientNoResponseError: client no response in 5040687ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/zzg/Desktop/egg-archive/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 89255
+hostname: zzgdeMacBook-Pro-2.local
+
+2023-03-22 10:42:07,018 ERROR 89255 nodejs.ClusterClientNoResponseError: client no response in 573193ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/zzg/Desktop/egg-archive/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 89255
+hostname: zzgdeMacBook-Pro-2.local
+
+2023-03-23 11:17:38,969 INFO 98116 [egg:logger] init all loggers with options: {"dir":"/Users/zzg/Desktop/egg-archive/logs/egg-archive","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-archive-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"enableFastContextLogger":false,"type":"agent","localStorage":{"enabled":false}}
+2023-03-23 11:17:38,976 INFO 98116 [egg:core] dump config after load, 4ms
+2023-03-23 11:17:39,035 INFO 98116 [egg-watcher] Start watching: ["/Users/zzg/Desktop/egg-archive/app","/Users/zzg/Desktop/egg-archive/config","/Users/zzg/Desktop/egg-archive/mocks","/Users/zzg/Desktop/egg-archive/mocks_proxy","/Users/zzg/Desktop/egg-archive/app.js"]
+2023-03-23 11:17:39,036 INFO 98116 [egg-watcher] Start watching: "/Users/zzg/Desktop/egg-archive/app"
+2023-03-23 11:17:39,036 INFO 98116 [egg-watcher] Start watching: "/Users/zzg/Desktop/egg-archive/config"
+2023-03-23 11:17:39,037 INFO 98116 [egg-watcher] Start watching: "/Users/zzg/Desktop/egg-archive/mocks"
+2023-03-23 11:17:39,037 INFO 98116 [egg-watcher] Start watching: "/Users/zzg/Desktop/egg-archive/mocks_proxy"
+2023-03-23 11:17:39,037 INFO 98116 [egg-watcher] Start watching: "/Users/zzg/Desktop/egg-archive/app.js"
+2023-03-23 11:17:39,038 INFO 98116 [egg-watcher:agent] watcher start success
+2023-03-23 11:17:39,141 INFO 98116 egg start timeline:
+▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ [726ms] - #0 Process Start
+                                   ▇▇▇▇▇▇▇▇▇▇▇ [235ms] - #1 Application Start
+                                    ▇ [6ms] - #2 Load Plugin
+                                    ▇ [13ms] - #3 Load Config
+                                    ▇ [1ms] - #4 Require(0) config/config.default.js
+                                    ▇ [0ms] - #5 Require(1) node_modules/egg-session/config/config.default.js
+                                    ▇ [0ms] - #6 Require(2) node_modules/egg-security/config/config.default.js
+                                    ▇ [0ms] - #7 Require(3) node_modules/egg-jsonp/config/config.default.js
+                                    ▇ [0ms] - #8 Require(4) node_modules/egg-onerror/config/config.default.js
+                                    ▇ [0ms] - #9 Require(5) node_modules/egg-i18n/config/config.default.js
+                                    ▇ [1ms] - #10 Require(6) node_modules/egg-watcher/config/config.default.js
+                                    ▇ [0ms] - #11 Require(7) node_modules/egg-schedule/config/config.default.js
+                                    ▇ [1ms] - #12 Require(8) node_modules/egg-multipart/config/config.default.js
+                                    ▇ [0ms] - #13 Require(9) node_modules/egg-development/config/config.default.js
+                                    ▇ [1ms] - #14 Require(10) node_modules/egg-logrotator/config/config.default.js
+                                    ▇ [0ms] - #15 Require(11) node_modules/egg-static/config/config.default.js
+                                    ▇ [0ms] - #16 Require(12) node_modules/egg-view/config/config.default.js
+                                    ▇ [0ms] - #17 Require(13) node_modules/egg-view-nunjucks/config/config.default.js
+                                    ▇ [1ms] - #18 Require(14) node_modules/egg/config/config.default.js
+                                    ▇ [0ms] - #19 Require(15) config/config.default.js
+                                    ▇ [0ms] - #20 Require(16) node_modules/egg-security/config/config.local.js
+                                    ▇ [0ms] - #21 Require(17) node_modules/egg-watcher/config/config.local.js
+                                    ▇ [0ms] - #22 Require(18) node_modules/egg-view/config/config.local.js
+                                    ▇ [0ms] - #23 Require(19) node_modules/egg-view-nunjucks/config/config.local.js
+                                    ▇ [0ms] - #24 Require(20) node_modules/egg/config/config.local.js
+                                     ▇▇ [41ms] - #25 Load extend/agent.js
+                                     ▇ [1ms] - #26 Require(21) node_modules/egg-security/app/extend/agent.js
+                                     ▇ [29ms] - #27 Require(22) node_modules/egg-schedule/app/extend/agent.js
+                                      ▇ [1ms] - #28 Require(23) node_modules/egg-logrotator/app/extend/agent.js
+                                       ▇ [29ms] - #29 Load extend/context.js
+                                       ▇ [9ms] - #30 Require(24) node_modules/egg-security/app/extend/context.js
+                                       ▇ [2ms] - #31 Require(25) node_modules/egg-jsonp/app/extend/context.js
+                                       ▇ [0ms] - #32 Require(26) node_modules/egg-i18n/app/extend/context.js
+                                       ▇ [12ms] - #33 Require(27) node_modules/egg-multipart/app/extend/context.js
+                                        ▇ [1ms] - #34 Require(28) node_modules/egg-view/app/extend/context.js
+                                        ▇ [1ms] - #35 Require(29) node_modules/egg/app/extend/context.js
+                                        ▇ [17ms] - #36 Load agent.js
+                                        ▇ [0ms] - #37 Require(30) node_modules/egg-security/agent.js
+                                        ▇ [0ms] - #38 Require(31) node_modules/egg-onerror/agent.js
+                                        ▇ [4ms] - #39 Require(32) node_modules/egg-watcher/agent.js
+                                        ▇ [2ms] - #40 Require(33) node_modules/egg-schedule/agent.js
+                                        ▇ [6ms] - #41 Require(34) node_modules/egg-development/agent.js
+                                         ▇ [1ms] - #42 Require(35) node_modules/egg-logrotator/agent.js
+                                         ▇ [1ms] - #43 Require(36) node_modules/egg/agent.js
+                                         ▇▇▇ [67ms] - #44 Before Start in node_modules/egg-watcher/lib/init.js:15:14
+                                         ▇ [34ms] - #45 Before Start in node_modules/egg-schedule/agent.js:12:9
+                                         ▇▇▇▇▇ [118ms] - #46 Before Start in node_modules/egg-development/agent.js:12:9
+2023-03-23 11:17:39,141 INFO 98116 [egg:core] dump config after ready, 13ms
+2023-03-23 13:14:15,029 ERROR 98116 nodejs.ClusterClientNoResponseError: client no response in 1751965ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/zzg/Desktop/egg-archive/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 98116
+hostname: zzgdeMacBook-Pro-2.local
+
+2023-03-23 13:31:33,018 ERROR 98116 nodejs.ClusterClientNoResponseError: client no response in 997341ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/zzg/Desktop/egg-archive/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 98116
+hostname: zzgdeMacBook-Pro-2.local
+
+2023-03-23 13:37:41,021 ERROR 98116 nodejs.ClusterClientNoResponseError: client no response in 328362ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/zzg/Desktop/egg-archive/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 98116
+hostname: zzgdeMacBook-Pro-2.local
+
